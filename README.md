@@ -1,9 +1,9 @@
+# Hey :wave:
 
-# Mateus here :wave:
-Hi, I'm a Python Developer currently working at **@Luizalabs** in São Paulo, Brazil and living in countryside of São Paulo.
+I am a Software Engineer currently working at **[@Luizalabs](https://github.com/luizalabs)** in São Paulo, Brazil.
 
-I have strong experience developing Dockerized Python API's, writting unit testing and other magic stuff.
+Aside my full-time job, I work on personal and open source projects such as [SrBarriga](https://github.com/Mateusmsouza/srbarriga) and [Store that bit](https://github.com/Mateusmsouza/store-that-bit).
 
-## Feel free to contact me
-- mateus_msouza@outlook.com
-- [https://mateusmsouza.github.io/](https://mateusmsouza.github.io/)
+## You may reach me at
+
+- [mateus_msouza@outlook.com](mailto:mateus_msouza@outlook.com)
