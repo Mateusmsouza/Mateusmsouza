@@ -2,7 +2,7 @@
 
 I am a Software Engineer currently working at **[@Luizalabs](https://github.com/luizalabs)** in São Paulo, Brazil.
 
-Aside my full-time job, I work on personal and open source projects such as [SrBarriga](https://github.com/Mateusmsouza/srbarriga) and [Store that bit](https://github.com/Mateusmsouza/store-that-bit).
+Aside my full-time job, I work on personal and open source projects such as [SrBarriga](https://github.com/Mateusmsouza/srbarriga).
 
 ## You may reach me at
 
