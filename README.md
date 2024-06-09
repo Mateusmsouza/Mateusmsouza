@@ -1,9 +1,14 @@
-# Hey :wave:
+Hey :wave:
 
-Im Mateus, a Senior Software Engineer working at **[@Luizalabs](https://github.com/luizalabs)** and MSc. Student at [@unifesp](https://github.com/unifesp) in São Paulo, Brazil.
+I'm Mateus Sousa, a Senior Software Engineer at [@Luizalabs](https://github.com/luizalabs) and an MSc. Student at [@unifesp](https://github.com/unifesp) in São Paulo, Brazil.
 
-While working at luizalabs I deal with complex problems in software engineering, infrastructure and architecture on a large scale at one of the biggest players in Brazilian retail and at Unifesp I explore the extensive world of deep learning, image classification, image synthesis and face relational tasks.
+**By day:** I tackle complex software engineering, infrastructure, and architecture challenges at a large scale, working for one of Brazil's biggest retail players, [@Luizalabs](https://github.com/luizalabs).
 
-## You may reach me at
-- [mateus_msouza@outlook.com](mailto:mateus_msouza@outlook.com)
-- [mmsouza@unifesp.br](mmsouza@unifesp.br)
+**By night:** I delve into the fascinating world of deep learning, exploring image classification, image synthesis, and face (expression) recognition tasks at [@unifesp](https://github.com/unifesp).  
+
+## Get in touch
+
+* Email (Luizalabs): mateus_msouza@outlook.com
+* Email (Unifesp): mmsouza@unifesp.br
+
+Feel free to reach out if you have any questions or just want to chat!
