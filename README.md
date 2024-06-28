@@ -8,7 +8,7 @@ I'm Mateus Souza, a Senior Software Engineer at [@Luizalabs](https://github.com/
 
 ## Get in touch
 
-* Email (Luizalabs): mateus_msouza@outlook.com
+* Email: mateus_msouza@outlook.com
 * Email (Unifesp): mmsouza@unifesp.br
 
 Feel free to reach out if you have any questions or just want to chat!
